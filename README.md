@@ -1,2 +1,2 @@
 # GymWebsite
-This repository contains the source code of a Gym related website that is a part of my web-development practice projects
+This is source code of a complete responsive gym related website. The technologies that I have used is HTML,CSS,JAVASCRIPT,BOOTSTRAP.
